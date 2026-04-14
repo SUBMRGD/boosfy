@@ -1,6 +1,4 @@
-# <img size="600" src="https://camo.githubusercontent.com/6429b18272f185bb56c97fc2f1770462238ea7598556cad7830309dfa230e791/68747470733a2f2f692e706f7374696d672e63632f30354d68375456352f696d6167652d323032342d30352d32342d3030353934333832372e706e67" />
-## ‎ ‎ ‎  ‎  ‎ ‎  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎‎ ‎ ‎‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ " ‎ ‎ ‎ ‎ ‎ur 50 ch1ll m4n!!! ‎ ‎ ‎ ‎ ‎ ‎"
-<img src="https://cdn.corenexis.com/files/c/4998948720.png" />
+# <img size="600" src="https://camo.githubusercontent.com/6429b18272f185bb56c97fc2f1770462238ea7598556cad7830309dfa230e791/68747470733a2f2f692e706f7374696d672e63632f30354d68375456352f696d6167652d323032342d30352d32342d3030353934333832372e706e67" /> <img src="https://cdn.corenexis.com/files/c/4998948720.png" />
 <p align="center">
   <a href="https://github.com/pillmaxxing/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314zezypv5vkn3go4m3dfhmr5xwe&cover_image=true&theme=novatorem&show_offline=false&background_color=61d6af&interchange=false&profanity=false&bar_color=db578c&bar_color_cover=false">
